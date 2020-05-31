@@ -1,0 +1,2 @@
+# vendas
+GitHub Pages
